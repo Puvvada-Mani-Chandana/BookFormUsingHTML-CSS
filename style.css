@@ -1,0 +1,30 @@
+.content {
+    width: 750px;
+    background-color: white;
+}
+h1{
+    color: lightsalmon;
+}
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 5px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background:lightgoldenrodyellow;
+}
+select[id="bookname"] {
+    width: 100%;
+    padding: 5px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: lightgoldenrodyellow;
+}
